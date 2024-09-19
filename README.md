@@ -1,10 +1,10 @@
 ## Hi,I'm Varshini 👋
 
-[![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshini1404)](https://github.com/Varshini1404/github-readme-stats)
 
 # 💫 About Me:
 🎓B.E, Computer Science of Engineering at Kongu Engineering College, India<br>🔭 I’m currently learning App Development<br>🧑‍🤝‍🧑 Open to Freelance Projects and Collaborations <br>📫 Contact : varshinisivakumar74@gmail.com<br>
 
+[![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshini1404)](https://github.com/Varshini1404/github-readme-stats)
 
 
 # 💻 Tech Stack:
