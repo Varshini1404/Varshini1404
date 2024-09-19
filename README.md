@@ -1,4 +1,4 @@
-## Hi this is Varshini 👋
+## Hi,I'm Varshini 👋
 
 [![Varshini's GitHub stats](https://github-readme-stats.vercel.app/api?username=Varshini1404)](https://github.com/Varshini1404/github-readme-stats)
 
