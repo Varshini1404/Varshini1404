@@ -1,4 +1,13 @@
-## Hi,I'm Varshini 👋
+<p align="center">
+  <img src="https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/images/header_glitch.gif" width="100%" />
+</p>
+
+<!-- Animated Name with Neon Glow -->
+<h1 align="center">
+  <a href="https://github.com/Varshini1404" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=35&color=%2300FF00&background=000000&center=true&vCenter=true&width=500&height=60&lines=Hi%2C+I'm+Varshini+👋;Full+Stack+Developer;Tech+Enthusiast+%F0%9F%9A%80" />
+  </a>
+</h1>
 
 
 # 💫 About Me:
